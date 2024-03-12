@@ -14,7 +14,8 @@ Asegúrate de tener instalado lo siguiente:
 ## Instrucciones de instalación
 #### 1. Clonar el proyecto
 Clona el repositorio:
-`git clonehttps://github.com/emerinofa/crud-slim3-back-clients.git`
+- `git clonehttps://github.com/emerinofa/crud-slim3-back-clients.git`
+- cd tu-repositorio
 #### 2. Instala las dependencias
 `composer install`
 #### 3. Inicia el servidor local
