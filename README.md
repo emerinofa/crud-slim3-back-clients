@@ -9,7 +9,7 @@ Asegúrate de tener instalado lo siguiente:
 - PHP: Versión 5.5 o posterior.
 - Composer: Gestor de paquetes de PHP.
 - Git: Para clonar el repositorio.
-- XAMMP 
+- XAMPP
 
 ## Instrucciones de instalación
 #### 1. Clonar el proyecto
@@ -18,6 +18,7 @@ Clona el repositorio:
 #### 2. Instala las dependencias
 `composer install`
 #### 3. Inicia el servidor local
+- Inicializa XAMPP
 - Colocate en tu directorio por ejemplo: `/c/xampp/htdocs/ejemploSlim/public`
 - Puedes utilizar el servidor web incorporado de PHP: `php -S localhost:8000`
 
@@ -30,8 +31,7 @@ Clona el repositorio:
 - dni (VARCHAR(8))
 - estado (TINYINT(4))
 
-
-#### 4. Accede a la aplicacion
+#### 5. Accede a la aplicacion
 - Abre tu navegador y visita `http://localhost:8080/GET/listclients`
 
 ## Autor
